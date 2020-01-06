@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "contract",
+      "type": "java.lang.String",
+      "description": "Description for contract."
+    },
+    {
+      "name": "admin.privateKey",
+      "type": "java.lang.String",
+      "description": "Description for admin.privateKey."
+    },
+    {
+      "name": "admin.publicKey",
+      "type": "java.lang.String",
+      "description": "Description for admin.publicKey."
+    },
+    {
+      "name": "admin.addr",
+      "type": "java.lang.String",
+      "description": "Description for admin.addr."
+    }
+  ] }
